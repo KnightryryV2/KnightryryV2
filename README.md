@@ -1,7 +1,7 @@
 # привет! I'm Knightryry!
 
-# About this goober:
-Hey! I'm knightryry! I'm Currently just a highschool student trying to make my way through life whilst making things for fun
+# About this Goober:
+Hey! I'm knightryry! I'm currently just a highschool student trying to make my way through life whilst making things for fun
 
 ## Currently Learning
 - Unity
